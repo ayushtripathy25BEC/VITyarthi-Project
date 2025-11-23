@@ -120,4 +120,5 @@ tk.Button(sci_frame, text="log", width=6, height=2, command=log_func).grid(row=1
 tk.Button(sci_frame, text="C", width=6, height=2, command=clear_entry).grid(row=1, column=2)
 
 # Start the GUI
+
 root.mainloop()
